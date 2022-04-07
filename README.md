@@ -1,5 +1,7 @@
 # Korean_Semantic_Textual_Similarity
  Fine Tuning 'klue/roberta-large' with kor-sts, klue-sts-v1.1
+ Siamese-Bert structure (mean-pooling and cosine similarity)
+ loss: MSELoss
 
  Best tuned version: 
 
